@@ -1,7 +1,6 @@
 <img src="https://imgyukle.com/f/2022/04/26/Rj42UI.jpg">
 
 <h1 align="center">Hi, :wave: I'm Semih Uzun<h1> 
-<hr />
 <h3 align="center">UI Designer | Front End Developer<h3>
  
 <h4 align="center">Connect with me:</h>
