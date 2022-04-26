@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, :wave: I'm Semih Uzun<h1> 
   
-<h2 align="center">UI Designer | Front End Developer<h3>
+<h2 align="center">UI Designer | Front End Developer<h2>
  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
